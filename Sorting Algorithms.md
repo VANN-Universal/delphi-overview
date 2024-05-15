@@ -21,7 +21,7 @@ begin
 end;
 ```
 
-![Insertion Sort](InsertionSort.svg)
+![Insertion Sort](img/InsertionSort.svg)
 
 ## Selection Sort
 
@@ -45,7 +45,7 @@ begin
 end;
 ```
 
-![Selection Sort](SelectionSort.svg)
+![Selection Sort](img/SelectionSort.svg)
 
 ## Bubble Sort
 
@@ -67,7 +67,7 @@ begin
 end;
 ```
 
-![Bubble Sort](BubbleSort.svg)
+![Bubble Sort](img/BubbleSort.svg)
 
 ## Quicksort
 
@@ -101,4 +101,4 @@ begin
 end;
 ```
 
-![Quicksort](QuickSort.svg)
+![Quicksort](img/QuickSort.svg)
