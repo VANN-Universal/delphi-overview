@@ -59,7 +59,7 @@ source: [Delphi Language Reference](https://docwiki.embarcadero.com/RADStudio/At
 ##### Static Arrays
 
 ```delphi
-array[inexType1, ..., indexTypeN] of baseType;
+array[indexType1, ..., indexTypeN] of baseType;
 ```
 
 ```delphi
